@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML projects focused on NLP and LLM-based applications  <br><br>👯 I’m looking to collaborate on Machine Learning, NLP, and Open Source projects  <br><br>🤝 I’m looking for help with scaling LLM applications and advanced deep learning models  <br><br>🌱 I’m currently learning Generative AI, RAG pipelines, and advanced ML techniques  <br><br>💬 Ask me about Python, Machine Learning, NLP, and AI projects  <br><br>⚡ Fun fact: I’ve built real-world ML projects including a chatbot using LLM + RAG and published research in Transfer Learning
-
+🔭 Computer Science graduate with hands-on experience in Machine Learning, Generative AI, and backend-integrated AI applications. Proficient in Python, SQL, NLP, LLMs, and data analytics, with practical exposure to building intelligent systems using LangChain, vector databases, and modern ML frameworks. Published research contributor with strong analytical, problem-solving, and adaptability skills, driven by a passion for developing scalable and impactful technology solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/aashish-kumar-aa0b22228) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashishkumar3105@gmail.com) 
