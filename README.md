@@ -1,15 +1,21 @@
-# Hi there, I'm [Your Name]! 👋
-### AI / Machine Learning Engineer
+# Hi there, I'm [Aashish Kumar]! 👋
+### AI Engineer | Machine Learning | Generative AI | LLM & RAG Developer
 
 I build intelligent systems, optimize deep learning models, and deploy scalable AI pipelines. My work focuses on bridging the gap between cutting-edge research and production-grade applications.
 
 ---
 
-### 🚀 What I Do
-- **Core Focus:** Computer Vision, NLP, Generative AI, or MLOps (Pick 2-3).
-- **Current Role:** [Your Title] at [Your Company/University].
-- **Learning:** Currently diving deep into [Specific Tech/Paper, e.g., LLM Quantization].
-- **Goals:** Looking to collaborate on open-source AI tools and model optimization frameworks.
+## 🚀 About Me
+
+🎓 **B.Tech graduate in Computer Science & Information Technology**, passionate about building intelligent AI solutions that solve real-world problems. My interests span **Machine Learning, Generative AI, LLMs, RAG, NLP, and Backend Development**.
+
+💡 I enjoy transforming ideas into scalable applications—from **AI-powered HR automation** and **Natural Language to SQL assistants** to **RAG-based chatbots** and **semantic search systems** using **Python, FastAPI, LangChain, FAISS, and PostgreSQL**.
+
+📚 I'm also a **published Machine Learning researcher**, continuously exploring emerging AI technologies while building impactful projects and contributing to the AI community.
+
+🚀 **Currently exploring:** Agentic AI • Multi-Agent Systems • Advanced RAG • LLM Engineering • AI Automation
+
+✨ *Always building. Always learning. Always curious.*
 
 ---
 
