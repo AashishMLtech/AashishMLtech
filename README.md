@@ -29,27 +29,6 @@
 
 ---
 
-### 📊 Featured AI/ML Projects
-
-#### 1. 🤖 [Analysis of Air Quality Index](https://github.com](https://github.com/AashishMLtech/AQI-Air-Quality-Index-)
-*   **Description:** The project uses machine learning models such as SVM, KNN, LSTM, CNN along with K-fold cross-validation to predict AQI. It combines exploratory data analysis, statistical methods, and predictive modeling to generate actionable insights on pollution levels.
-*   **Tech Stack:** `Python`, `ML`, `SVM`,`LSTM`,`CNN,`,`KNN`.
-*   **Impact:** Improved model accuracy by 15% and reduced inference latency to under 50ms.
-
-#### 2. 🧠 [Project Name 2](https://github.com)
-*   **Description:** Fine-tuned an LLM for specific domain tasks using QLoRA.
-*   **Tech Stack:** `Python`, `ML`, `SVM`,`LSTM`,`CNN,`,`KNN`.
-
----
-
-### 📈 GitHub Stats & Analytics
-
-<p align="left">
-  <img src="https://vercel.app" alt="Your GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
-</p>
-
----
 
 ### 🌐 Connect With Me
 <p align="left">
