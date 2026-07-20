@@ -32,7 +32,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"/></a>
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/aashish-kumar-aa0b22228/)" target="_blank"><img src="https://shields.io" alt="LinkedIn"/></a>
   <a href="https://medium.com" target="_blank"><img src="https://shields.io" alt="Medium"/></a>
   <a href="mailto:your.email@example.com"><img src="https://shields.io" alt="Email"/></a>
 </p>
