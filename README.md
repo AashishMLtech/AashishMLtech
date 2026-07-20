@@ -23,11 +23,13 @@ I build intelligent systems, optimize deep learning models, and deploy scalable 
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | `Python`, `C++`, `R`, `SQL` |
-| **Frameworks** | `PyTorch`, `TensorFlow`, `JAX`, `Scikit-Learn` |
-| **GenAI / LLMs** | `Hugging Face`, `LangChain`, `LlamaIndex`, `OpenAI API` |
-| **MLOps / Cloud** | `Docker`, `MLflow`, `Weights & Biases`, `AWS`, `GCP` |
-| **Data / Storage** | `Pandas`, `NumPy`, `PostgreSQL`, `Pinecone`, `Milvus` |
+| 🐍 **Languages** | `Python`, `SQL` |
+| 🤖 **Artificial Intelligence** | `Machine Learning`, `Deep Learning`, `Generative AI`, `LLMs`, `RAG`, `Transfer Learning`, `NLP` |
+| 🧠 **Data Science** | `Data Science`, `Pandas`, `NumPy`, `Data Analysis`, `Feature Engineering` |
+| ⚡ **Backend Development** | `FastAPI`, `REST API`, `Python Backend Development` |
+| 🗄️ **Databases** | `PostgreSQL`, `MySQL`, `Vector Databases`, `FAISS`, `pgvector` |
+| 🔗 **LLM Ecosystem** | `LangChain`, `OpenAI API`, `Embeddings`, `Semantic Search`, `Prompt Engineering` |
+| ☁️ **Dev Tools** | `Docker`, `Git`, `GitHub`, `Streamlit` |
 
 ---
 
