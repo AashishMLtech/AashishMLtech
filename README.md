@@ -1,7 +1,5 @@
 # Hi there, I'm [Aashish Kumar]! 👋
-### AI Engineer | Machine Learning | Generative AI | LLM & RAG Developer
-
-I build intelligent systems, optimize deep learning models, and deploy scalable AI pipelines. My work focuses on bridging the gap between cutting-edge research and production-grade applications.
+### AI  | Machine Learning | Generative AI | LLM & RAG Developer
 
 ---
 
