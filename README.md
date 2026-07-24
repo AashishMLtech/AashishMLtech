@@ -1,4 +1,4 @@
-# Hi there, I'm [Aashish Kumar]! 👋
+# Hi there, I'm [Aashish Kumar ]! 👋
 ### AI  | Machine Learning | Generative AI | LLM & RAG Developer
 
 ---
