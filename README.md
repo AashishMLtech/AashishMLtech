@@ -46,7 +46,7 @@
 │   🤖 AI Applications          🧠 Machine Learning           │
 │   🔗 RAG Systems              💬 LLM Applications           │
 │   🔎 Semantic Search          🗄️ Vector Databases           │
-│   📝 NLP Solutions            ⚙️ AI Automation               │
+│   📝 NLP Solutions            ⚙️ AI Automation              │
 │   🔥 Agentic AI               🌐 Backend APIs               │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
@@ -59,7 +59,8 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sql,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -157,12 +158,6 @@
 
 Research published in the *Journal of Indian Institute for Engineering, Management and Science.*
 
-### 📖 Upcoming Research
-
-**Cyberbullying Detection**
-
-Research chapter accepted by **IGI Global Scientific Publishing** and currently in process.
-
 ---
 
 ## 🧠 Currently Exploring
@@ -181,6 +176,25 @@ AI Automation
 
 I'm particularly interested in building AI systems that can **reason, retrieve information, use tools and automate real-world workflows.**
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AashishMLtech&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishMLtech&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AashishMLtech&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
 
@@ -233,5 +247,6 @@ I'm particularly interested in building AI systems that can **reason, retrieve i
 **Always building. Always learning. Always curious. 🚀**
 
 </div>
+
 
 
