@@ -1,66 +1,61 @@
 <div align="center">
 
-# 👋 Hi, I'm **Aashish Kumar**
+# 👋 **Hi, I'm Aashish Kumar**
 
-### AI Engineer • Machine Learning • Generative AI • LLM & RAG
+### 🤖 AI Engineer • Machine Learning • Generative AI • LLM & RAG
 
-### 🌐 **My Portfolio**
+**Building intelligent systems that turn ideas into real-world solutions.** ⚡
 
 <a href="https://portfolio-aashish3.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-Portfolio-8B5CF6?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=0F172A"/>
 </a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications;LLMs+%7C+RAG+%7C+Semantic+Search;Machine+Learning+%7C+NLP+%7C+Generative+AI;Exploring+Agentic+AI+%26+Multi-Agent+Systems" alt="Typing animation"/>
 
 <br/>
 
-<a href="https://github.com/AashishMLtech">
-<img src="https://img.shields.io/badge/GitHub-AashishMLtech-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=LLMs+%7C+RAG+%7C+Semantic+Search;Machine+Learning+%7C+NLP+%7C+Generative+AI;FastAPI+%7C+PostgreSQL+%7C+Vector+Databases;Exploring+Agentic+AI+%26+Multi-Agent+Systems" alt="Typing animation"/>
 
-<a href="https://www.linkedin.com/in/aashish-kumar-aa0b22228/">
-<img src="https://img.shields.io/badge/LinkedIn-Aashish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p>
+<a href="https://github.com/AashishMLtech"><img src="https://img.shields.io/badge/GitHub-AashishMLtech-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aashish-kumar-aa0b22228/"><img src="https://img.shields.io/badge/LinkedIn-Aashish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:aashishkumar3105@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<a href="mailto:aashishkumar3105@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AashishMLtech&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=AashishMLtech&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 🎓 **B.Tech in Computer Science & Information Technology**
 
-🤖 Interested in **Artificial Intelligence, Machine Learning, Generative AI, LLMs, RAG and NLP**
+🤖 Building solutions around **AI, Machine Learning, Generative AI, LLMs, RAG and NLP**
 
-🚀 I build **AI-powered applications, intelligent search systems and LLM-based workflows** using modern backend, database and vector technologies.
+🚀 Experienced in developing **AI applications, semantic search systems and LLM-powered workflows** using Python, FastAPI, LangChain, PostgreSQL and vector databases.
 
 🔬 **Published Machine Learning researcher** with a strong interest in emerging AI technologies.
 
-⚡ Currently exploring **Agentic AI, Multi-Agent Systems, Advanced RAG, LLM Engineering and AI Automation.**
+🌌 Currently exploring **Agentic AI, Multi-Agent Systems, Advanced RAG, LLM Engineering and AI Automation.**
 
 ---
 
-## 🧠 What I Work On
+## ✨ What I Build
 
 <div align="center">
 
-| 🤖 AI Engineering | 🔎 Intelligent Search | ⚙️ Backend & Data |
-| :---------------: | :-------------------: | :---------------: |
-|  LLM Applications |    Semantic Search    |      FastAPI      |
-|    RAG Systems    |       Embeddings      |     PostgreSQL    |
-|   Generative AI   |    Vector Databases   |     REST APIs     |
-|     Agentic AI    |   Context Retrieval   |      pgvector     |
-|        NLP        |  Knowledge Retrieval  |     Streamlit     |
+**🤖 AI Applications**  • 
+**🧠 Machine Learning**  • 
+**💬 LLM Solutions**  • 
+**🔗 RAG Systems**  • 
+**🔎 Semantic Search**
+
+<br/>
+
+**🗄️ Vector Databases**  • 
+**⚙️ AI Automation**  • 
+**🔥 Agentic AI**  • 
+**🌐 Backend APIs**
 
 </div>
 
@@ -71,8 +66,8 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" height="45"/>
-<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=22D3EE" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" height="42"/>
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=22D3EE" height="42"/>
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -89,7 +84,7 @@
 ### 🔗 LLM & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" height="45"/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" height="42"/>
 </p>
 
 <p>
@@ -104,7 +99,7 @@
 ### 🗄️ Data & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="42"/>
 </p>
 
 <p>
@@ -120,7 +115,7 @@
 
 ### 🤖 NL2SQL Assistant
 
-**Natural Language → SQL using LLM + RAG + PostgreSQL**
+**Natural Language → SQL with LLM + RAG + PostgreSQL**
 
 `Python` `FastAPI` `LangChain` `PostgreSQL` `pgvector` `Streamlit`
 
@@ -170,17 +165,21 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 
 ---
 
-## 🌌 Current Focus
+## 🌌 Currently Exploring
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01%20Agentic%20AI-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02%20Multi--Agent%20Systems-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03%20Advanced%20RAG-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/04%20LLM%20Engineering-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05%20AI%20Automation-06B6D4?style=for-the-badge"/>
+🤖 **Agentic AI**
+↓
+🧩 **Multi-Agent Systems**
+↓
+🔎 **Advanced RAG**
+↓
+🧠 **LLM Engineering**
+↓
+⚙️ **AI Automation**
 
-<br/><br/>
+<br/>
 
 **Building AI systems that can retrieve information, reason over context, use tools and automate workflows.**
 
@@ -192,9 +191,9 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AashishMLtech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=AashishMLtech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishMLtech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishMLtech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -220,7 +219,7 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 
 ## 🎯 2026 Goals
 
-|     | Goal                                      |
+|  🚀 | Goal                                      |
 | :-: | :---------------------------------------- |
 |  🤖 | Build production-ready Agentic AI systems |
 |  🧠 | Deepen LLM & RAG engineering              |
@@ -235,21 +234,13 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 
 <div align="center">
 
-### 🚀 **Everything in one place**
+### 🚀 **My professional journey, all in one place**
 
-My website brings together my **education, experience, technical skills, projects, research and overall professional journey.**
-
-<br/>
+**Education • Experience • Skills • Projects • Research**
 
 <a href="https://portfolio-aashish3.vercel.app/">
-
-<img src="https://img.shields.io/badge/🌐%20OPEN%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=0F172A"/>
-
+<img src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=0F172A"/>
 </a>
-
-<br/><br/>
-
-**Education • Experience • Skills • Projects • Research • Portfolio**
 
 </div>
 
@@ -275,31 +266,14 @@ My website brings together my **education, experience, technical skills, project
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
+
+### ⚡ **Build • Experiment • Learn • Ship**
+
+*Turning curiosity into intelligent systems.* 🚀
 
 <br/>
 
-<div align="center">
-
-### ⚡ Build. Experiment. Learn. Ship.
-
-**Turning curiosity into intelligent systems. 🚀**
-
-<br/>
-
-### 🌐 **Portfolio**
-
-**https://portfolio-aashish3.vercel.app/**
+🌐 **Portfolio:** <a href="https://portfolio-aashish3.vercel.app/">https://portfolio-aashish3.vercel.app/</a>
 
 </div>
-
-
-</div>
-
-<!-- ===================== FOOTER ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0F172A&height=100&section=footer" width="100%"/>
-
-
-
-
