@@ -7,7 +7,7 @@
 **Building intelligent systems that turn ideas into real-world solutions.** ⚡
 
 <a href="https://portfolio-aashish3.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/PORTFOLIO%20%7C%20EXPLORE%20MY%20WORK-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/>
 </a>
 
 <br/>
@@ -15,9 +15,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=LLMs+%7C+RAG+%7C+Semantic+Search;Machine+Learning+%7C+NLP+%7C+Generative+AI;FastAPI+%7C+PostgreSQL+%7C+Vector+Databases;Exploring+Agentic+AI+%26+Multi-Agent+Systems" alt="Typing animation"/>
 
 <p>
-<a href="https://github.com/AashishMLtech"><img src="https://img.shields.io/badge/GitHub-AashishMLtech-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aashish-kumar-aa0b22228/"><img src="https://img.shields.io/badge/LinkedIn-Aashish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:aashishkumar3105@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/AashishMLtech">
+<img src="https://img.shields.io/badge/GitHub-AashishMLtech-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/aashish-kumar-aa0b22228/">
+<img src="https://img.shields.io/badge/LinkedIn-Aashish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aashishkumar3105@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=AashishMLtech&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
@@ -169,17 +175,13 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 
 <div align="center">
 
-🤖 **Agentic AI**
-↓
-🧩 **Multi-Agent Systems**
-↓
-🔎 **Advanced RAG**
-↓
-🧠 **LLM Engineering**
-↓
+🤖 **Agentic AI**   →  
+🧩 **Multi-Agent Systems**   →  
+🔎 **Advanced RAG**   →  
+🧠 **LLM Engineering**   →  
 ⚙️ **AI Automation**
 
-<br/>
+<br/><br/>
 
 **Building AI systems that can retrieve information, reason over context, use tools and automate workflows.**
 
@@ -234,13 +236,19 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 
 <div align="center">
 
-### 🚀 **My professional journey, all in one place**
+### **My professional journey, all in one place.**
 
 **Education • Experience • Skills • Projects • Research**
 
+<br/>
+
 <a href="https://portfolio-aashish3.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=8B5CF6"/>
 </a>
+
+<br/><br/>
+
+<sub>View my complete profile, projects, education, experience and technical journey.</sub>
 
 </div>
 
@@ -251,7 +259,7 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 <div align="center">
 
 <a href="https://portfolio-aashish3.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aashish-kumar-aa0b22228/">
@@ -274,6 +282,6 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 
 <br/>
 
-🌐 **Portfolio:** <a href="https://portfolio-aashish3.vercel.app/">https://portfolio-aashish3.vercel.app/</a>
+**🌐 Portfolio:** <a href="https://portfolio-aashish3.vercel.app/">portfolio-aashish3.vercel.app</a>
 
 </div>
