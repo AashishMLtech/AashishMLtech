@@ -181,25 +181,6 @@ AI Automation
 
 I'm particularly interested in building AI systems that can **reason, retrieve information, use tools and automate real-world workflows.**
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AashishMLtech&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishMLtech&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AashishMLtech&theme=github-dark-blue&hide_border=true" />
-
-</div>
 
 ---
 
