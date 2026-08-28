@@ -1,30 +1,34 @@
 <div align="center">
 
-# 👋 **Hi, I'm Aashish Kumar**
+# 👋 Hi, I'm **Aashish Kumar**
 
-### 🤖 AI Engineer • Machine Learning • Generative AI • LLM & RAG
+### 🤖 AI Engineer · Machine Learning · Generative AI · LLM & RAG
 
 **Building intelligent systems that turn ideas into real-world solutions.** ⚡
 
+<br/>
+
 <a href="https://portfolio-aashish3.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO%20%7C%20EXPLORE%20MY%20WORK-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20VIEW%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=LLMs+%7C+RAG+%7C+Semantic+Search;Machine+Learning+%7C+NLP+%7C+Generative+AI;FastAPI+%7C+PostgreSQL+%7C+Vector+Databases;Exploring+Agentic+AI+%26+Multi-Agent+Systems" alt="Typing animation"/>
 
-<p>
+<br/>
+
 <a href="https://github.com/AashishMLtech">
 <img src="https://img.shields.io/badge/GitHub-AashishMLtech-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/aashish-kumar-aa0b22228/">
-<img src="https://img.shields.io/badge/LinkedIn-Aashish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:aashishkumar3105@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=AashishMLtech&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
 
@@ -42,7 +46,7 @@
 
 🔬 **Published Machine Learning researcher** with a strong interest in emerging AI technologies.
 
-🌌 Currently exploring **Agentic AI, Multi-Agent Systems, Advanced RAG, LLM Engineering and AI Automation.**
+🌌 Currently focused on **Agentic AI, Multi-Agent Systems, Advanced RAG, LLM Engineering and AI Automation.**
 
 ---
 
@@ -50,18 +54,25 @@
 
 <div align="center">
 
-**🤖 AI Applications**  • 
-**🧠 Machine Learning**  • 
-**💬 LLM Solutions**  • 
-**🔗 RAG Systems**  • 
-**🔎 Semantic Search**
+### 🤖 AI Applications
+
+### 🧠 Machine Learning
+
+### 💬 LLM Solutions
+
+### 🔗 RAG Systems
+
+### 🔎 Semantic Search
 
 <br/>
 
-**🗄️ Vector Databases**  • 
-**⚙️ AI Automation**  • 
-**🔥 Agentic AI**  • 
-**🌐 Backend APIs**
+### 🗄️ Vector Databases
+
+### ⚙️ AI Automation
+
+### 🔥 Agentic AI
+
+### 🌐 Backend APIs
 
 </div>
 
@@ -87,7 +98,7 @@
 <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=probot&logoColor=22D3EE"/>
 </p>
 
-### 🔗 LLM & Development
+### 🔗 LLM Engineering & Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" height="42"/>
@@ -117,48 +128,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 NL2SQL Assistant
-
-**Natural Language → SQL with LLM + RAG + PostgreSQL**
-
-`Python` `FastAPI` `LangChain` `PostgreSQL` `pgvector` `Streamlit`
-
-> Converts natural-language questions into SQL while retrieving relevant database schema context through semantic search.
-
----
-
-### 💬 RAG Knowledge Chatbot
-
-**Context-aware conversational AI**
-
-`Python` `LangChain` `FAISS` `LLMs` `Embeddings` `Streamlit`
-
-> Retrieves relevant information before generating responses for more context-aware answers.
-
----
-
-### 📊 Twitter Sentiment Analysis
-
-**NLP-based sentiment & hate-speech analysis**
-
-`Python` `TF-IDF` `SVM` `Logistic Regression` `NLP`
-
-> Built an end-to-end text classification pipeline achieving approximately **87% accuracy**.
-
----
-
-### 🌫️ AQI Prediction
-
-**Machine Learning for Air Quality Prediction**
-
-`Python` `Pandas` `Scikit-learn` `KNN` `SVM` `LSTM`
-
-> Developed predictive models for air-quality data, with KNN achieving **84.89% accuracy**.
-
----
-
 ## 🔬 Research
 
 ### 📚 Published Research
@@ -167,7 +136,7 @@
 
 Published in the *Journal of Indian Institute for Engineering, Management and Science.*
 
-**Research Areas:** Machine Learning • Transfer Learning • Artificial Intelligence
+**Research Areas:** Machine Learning · Transfer Learning · Artificial Intelligence
 
 ---
 
@@ -175,15 +144,63 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 
 <div align="center">
 
-🤖 **Agentic AI**   →  
-🧩 **Multi-Agent Systems**   →  
-🔎 **Advanced RAG**   →  
-🧠 **LLM Engineering**   →  
-⚙️ **AI Automation**
+<table>
+<tr>
+<td align="center" width="20%">
 
-<br/><br/>
+### 🤖
 
-**Building AI systems that can retrieve information, reason over context, use tools and automate workflows.**
+**Agentic AI**
+
+Building systems that can reason, plan and take actions.
+
+</td>
+
+<td align="center" width="20%">
+
+### 🧩
+
+**Multi-Agent Systems**
+
+Exploring collaborative AI agents and orchestration.
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔎
+
+**Advanced RAG**
+
+Improving retrieval, relevance and grounded generation.
+
+</td>
+
+<td align="center" width="20%">
+
+### 🧠
+
+**LLM Engineering**
+
+Designing reliable and production-ready LLM applications.
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚙️
+
+**AI Automation**
+
+Connecting AI with tools, APIs and real-world workflows.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> **From retrieval → reasoning → tool use → automation**
 
 </div>
 
@@ -193,17 +210,13 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=AashishMLtech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AashishMLtech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishMLtech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishMLtech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AashishMLtech&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=AashishMLtech&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -213,13 +226,25 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AashishMLtech&theme=tokyo-night&hide_border=true&area=true&radius=8" width="95%"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=AashishMLtech&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&radius=8"
+width="95%"
+alt="Aashish Kumar's GitHub Contribution Graph"
+/>
+
+<br/><br/>
+
+<a href="https://github.com/AashishMLtech">
+<img src="https://img.shields.io/badge/%E2%86%92%20VIEW%20GITHUB%20ACTIVITY-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
 ## 🎯 2026 Goals
+
+<div align="center">
 
 |  🚀 | Goal                                      |
 | :-: | :---------------------------------------- |
@@ -230,26 +255,6 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 |  🌍 | Contribute to open-source AI              |
 |  🔬 | Publish more AI/ML research               |
 
----
-
-## 🌐 Explore My Full Portfolio
-
-<div align="center">
-
-### **My professional journey, all in one place.**
-
-**Education • Experience • Skills • Projects • Research**
-
-<br/>
-
-<a href="https://portfolio-aashish3.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=8B5CF6"/>
-</a>
-
-<br/><br/>
-
-<sub>View my complete profile, projects, education, experience and technical journey.</sub>
-
 </div>
 
 ---
@@ -259,7 +264,7 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 <div align="center">
 
 <a href="https://portfolio-aashish3.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aashish-kumar-aa0b22228/">
@@ -267,21 +272,16 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 </a>
 
 <a href="mailto:aashishkumar3105@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AashishMLtech">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### ⚡ **Build • Experiment • Learn • Ship**
-
-*Turning curiosity into intelligent systems.* 🚀
-
-<br/>
-
-**🌐 Portfolio:** <a href="https://portfolio-aashish3.vercel.app/">portfolio-aashish3.vercel.app</a>
+**Building intelligent systems. Learning continuously. Creating with AI.**
 
 </div>
+
