@@ -6,6 +6,8 @@
 
 **Building intelligent systems that turn ideas into real-world solutions.** ⚡
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=LLMs+%7C+RAG+%7C+Semantic+Search;Machine+Learning+%7C+NLP+%7C+Generative+AI;FastAPI+%7C+PostgreSQL+%7C+Vector+Databases;Exploring+Agentic+AI+%26+Multi-Agent+Systems" alt="Typing animation"/>
+
 <br/>
 
 <a href="https://portfolio-aashish3.vercel.app/">
@@ -13,10 +15,6 @@
 </a>
 
 <br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=LLMs+%7C+RAG+%7C+Semantic+Search;Machine+Learning+%7C+NLP+%7C+Generative+AI;FastAPI+%7C+PostgreSQL+%7C+Vector+Databases;Exploring+Agentic+AI+%26+Multi-Agent+Systems" alt="Typing animation"/>
-
-<br/>
 
 <a href="https://github.com/AashishMLtech">
 <img src="https://img.shields.io/badge/GitHub-AashishMLtech-161B22?style=for-the-badge&logo=github&logoColor=white"/>
@@ -30,7 +28,7 @@
 <img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=AashishMLtech&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
 
