@@ -56,17 +56,17 @@
 
 <div align="center">
 
-**🤖 AI Applications** &nbsp; • &nbsp;
-**🧠 Machine Learning** &nbsp; • &nbsp;
-**💬 LLM Solutions** &nbsp; • &nbsp;
-**🔗 RAG Systems** &nbsp; • &nbsp;
+**🤖 AI Applications** &nbsp;•&nbsp;
+**🧠 Machine Learning** &nbsp;•&nbsp;
+**💬 LLM Solutions** &nbsp;•&nbsp;
+**🔗 RAG Systems** &nbsp;•&nbsp;
 **🔎 Semantic Search**
 
 <br/>
 
-**🗄️ Vector Databases** &nbsp; • &nbsp;
-**⚙️ AI Automation** &nbsp; • &nbsp;
-**🔥 Agentic AI** &nbsp; • &nbsp;
+**🗄️ Vector Databases** &nbsp;•&nbsp;
+**⚙️ AI Automation** &nbsp;•&nbsp;
+**🔥 Agentic AI** &nbsp;•&nbsp;
 **🌐 Backend APIs**
 
 </div>
@@ -157,15 +157,15 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=AashishMLtech&theme=github-compact&hide_border=true&area=true&custom_title=Aashish%20Kumar%27s%20GitHub%20Activity"
-width="95%"
+src="https://raw.githubusercontent.com/AashishMLtech/AashishMLtech/output/github-contribution-grid-snake-dark.svg"
 alt="Aashish Kumar GitHub Contribution Activity"
+width="95%"
 />
 
 <br/><br/>
 
 <a href="https://github.com/AashishMLtech">
-<img src="https://img.shields.io/badge/%E2%86%92%20VIEW%20GITHUB%20ACTIVITY-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20VIEW%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
