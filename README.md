@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Aashish Kumar**
+# 👋 **Hi, I'm Aashish Kumar**
 
 ### 🤖 AI Engineer · Machine Learning · Generative AI · LLM & RAG
 
@@ -21,9 +21,11 @@
 <a href="https://github.com/AashishMLtech">
 <img src="https://img.shields.io/badge/GitHub-AashishMLtech-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/aashish-kumar-aa0b22228/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:aashishkumar3105@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -54,25 +56,18 @@
 
 <div align="center">
 
-### 🤖 AI Applications
-
-### 🧠 Machine Learning
-
-### 💬 LLM Solutions
-
-### 🔗 RAG Systems
-
-### 🔎 Semantic Search
+**🤖 AI Applications** &nbsp; • &nbsp;
+**🧠 Machine Learning** &nbsp; • &nbsp;
+**💬 LLM Solutions** &nbsp; • &nbsp;
+**🔗 RAG Systems** &nbsp; • &nbsp;
+**🔎 Semantic Search**
 
 <br/>
 
-### 🗄️ Vector Databases
-
-### ⚙️ AI Automation
-
-### 🔥 Agentic AI
-
-### 🌐 Backend APIs
+**🗄️ Vector Databases** &nbsp; • &nbsp;
+**⚙️ AI Automation** &nbsp; • &nbsp;
+**🔥 Agentic AI** &nbsp; • &nbsp;
+**🌐 Backend APIs**
 
 </div>
 
@@ -144,79 +139,14 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">
-
-### 🤖
-
-**Agentic AI**
-
-Building systems that can reason, plan and take actions.
-
-</td>
-
-<td align="center" width="20%">
-
-### 🧩
-
-**Multi-Agent Systems**
-
-Exploring collaborative AI agents and orchestration.
-
-</td>
-
-<td align="center" width="20%">
-
-### 🔎
-
-**Advanced RAG**
-
-Improving retrieval, relevance and grounded generation.
-
-</td>
-
-<td align="center" width="20%">
-
-### 🧠
-
-**LLM Engineering**
-
-Designing reliable and production-ready LLM applications.
-
-</td>
-
-<td align="center" width="20%">
-
-### ⚙️
-
-**AI Automation**
-
-Connecting AI with tools, APIs and real-world workflows.
-
-</td>
-</tr>
-</table>
+| 🤖 | 🧩 | 🔎 | 🧠 | ⚙️ |
+|:---:|:---:|:---:|:---:|:---:|
+| **Agentic AI** | **Multi-Agent Systems** | **Advanced RAG** | **LLM Engineering** | **AI Automation** |
+| Reasoning & Planning | Agent Orchestration | Retrieval & Grounding | Reliable LLM Apps | AI-Powered Workflows |
 
 <br/>
 
-> **From retrieval → reasoning → tool use → automation**
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AashishMLtech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishMLtech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=AashishMLtech&theme=tokyonight&hide_border=true"/>
+**Retrieval → Reasoning → Tool Use → Automation**
 
 </div>
 
@@ -227,9 +157,9 @@ Connecting AI with tools, APIs and real-world workflows.
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=AashishMLtech&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&radius=8"
+src="https://github-readme-activity-graph.vercel.app/graph?username=AashishMLtech&theme=github-compact&hide_border=true&area=true&custom_title=Aashish%20Kumar%27s%20GitHub%20Activity"
 width="95%"
-alt="Aashish Kumar's GitHub Contribution Graph"
+alt="Aashish Kumar GitHub Contribution Activity"
 />
 
 <br/><br/>
@@ -246,14 +176,14 @@ alt="Aashish Kumar's GitHub Contribution Graph"
 
 <div align="center">
 
-|  🚀 | Goal                                      |
-| :-: | :---------------------------------------- |
-|  🤖 | Build production-ready Agentic AI systems |
-|  🧠 | Deepen LLM & RAG engineering              |
-|  ⚙️ | Build scalable AI APIs                    |
-|  🔗 | Explore Multi-Agent architectures         |
-|  🌍 | Contribute to open-source AI              |
-|  🔬 | Publish more AI/ML research               |
+| 🚀 | Goal |
+| :-: | :--- |
+| 🤖 | Build production-ready Agentic AI systems |
+| 🧠 | Deepen LLM & RAG engineering |
+| ⚙️ | Build scalable AI APIs |
+| 🔗 | Explore Multi-Agent architectures |
+| 🌍 | Contribute to open-source AI |
+| 🔬 | Publish more AI/ML research |
 
 </div>
 
