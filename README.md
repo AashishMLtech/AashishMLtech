@@ -16,7 +16,7 @@ alt="Typing animation"
 <a href="https://portfolio-aashish3.vercel.app/">
 <img
 src="https://img.shields.io/badge/%E2%86%92%20VIEW%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"
-alt="View Portfolio"
+alt="View My Portfolio"
 />
 </a>
 
@@ -94,7 +94,7 @@ alt="Profile Views"
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" height="42" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" height="42" alt="Python C++ JavaScript HTML CSS"/>
 <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=22D3EE" height="42" alt="SQL"/>
 </p>
 
@@ -112,7 +112,7 @@ alt="Profile Views"
 ### 🔗 LLM Engineering & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" height="42" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" height="42" alt="FastAPI Docker Git GitHub"/>
 </p>
 
 <p>
@@ -127,7 +127,7 @@ alt="Profile Views"
 ### 🗄️ Data & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="42" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="42" alt="PostgreSQL MySQL MongoDB"/>
 </p>
 
 <p>
@@ -187,15 +187,6 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
     width="100%"
   />
 </picture>
-
-<br/><br/>
-
-<a href="https://github.com/AashishMLtech">
-<img
-src="https://img.shields.io/badge/%E2%86%92%20VIEW%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"
-alt="View GitHub"
-/>
-</a>
 
 </div>
 
