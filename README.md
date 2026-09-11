@@ -192,28 +192,6 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AashishMLtech/Autonomous-Lead-Enrichment-Agent">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=AashishMLtech&repo=Autonomous-Lead-Enrichment-Agent&theme=github_dark&hide_border=true"
-alt="Autonomous Lead Enrichment Agent"
-/>
-</a>
-
-<a href="https://github.com/AashishMLtech">
-<img
-src="https://github-readme-stats.vercel.app/api?username=AashishMLtech&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-alt="GitHub Statistics"
-/>
-</a>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
