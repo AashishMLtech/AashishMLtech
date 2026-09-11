@@ -1,17 +1,17 @@
 <div align="center">
 
-# 👋 **Hi, I'm Aashish Kumar**
+# 👋 Hi, I'm Aashish Kumar
 
 ### 🤖 AI Engineer · Machine Learning · Generative AI · LLM & RAG
 
-**Building intelligent systems that turn ideas into real-world solutions.** ⚡
+Building intelligent systems that turn ideas into real-world solutions. ⚡
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=LLMs+%7C+RAG+%7C+Semantic+Search;Machine+Learning+%7C+NLP+%7C+Generative+AI;FastAPI+%7C+PostgreSQL+%7C+Vector+Databases;Exploring+Agentic+AI+%26+Multi-Agent+Systems"
 alt="Typing animation"
 />
 
-<br/>
+<br>
 
 <a href="https://portfolio-aashish3.vercel.app/">
 <img
@@ -20,7 +20,7 @@ alt="View My Portfolio"
 />
 </a>
 
-<br/><br/>
+<br>
 
 <a href="https://github.com/AashishMLtech">
 <img
@@ -43,7 +43,7 @@ alt="Email"
 />
 </a>
 
-<br/>
+<br>
 
 <img
 src="https://komarev.com/ghpvc/?username=AashishMLtech&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"
@@ -72,18 +72,18 @@ alt="Profile Views"
 
 <div align="center">
 
-**🤖 AI Applications** &nbsp;•&nbsp;
-**🧠 Machine Learning** &nbsp;•&nbsp;
-**💬 LLM Solutions** &nbsp;•&nbsp;
-**🔗 RAG Systems** &nbsp;•&nbsp;
-**🔎 Semantic Search**
+<img src="https://img.shields.io/badge/🤖%20AI%20Applications-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧠%20Machine%20Learning-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💬%20LLM%20Solutions-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔗%20RAG%20Systems-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔎%20Semantic%20Search-111827?style=for-the-badge" />
 
-<br/>
+<br>
 
-**🗄️ Vector Databases** &nbsp;•&nbsp;
-**⚙️ AI Automation** &nbsp;•&nbsp;
-**🔥 Agentic AI** &nbsp;•&nbsp;
-**🌐 Backend APIs**
+<img src="https://img.shields.io/badge/🗄️%20Vector%20Databases-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚙️%20AI%20Automation-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔥%20Agentic%20AI-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20Backend%20APIs-111827?style=for-the-badge" />
 
 </div>
 
@@ -94,47 +94,47 @@ alt="Profile Views"
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" height="42" alt="Python C++ JavaScript HTML CSS"/>
-<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=22D3EE" height="42" alt="SQL"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" height="42" />
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=22D3EE" height="42" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikit-learn&logoColor=F59E0B" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=google&logoColor=4285F4" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="RAG"/>
-<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=probot&logoColor=22D3EE" alt="NLP"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikit-learn&logoColor=F59E0B" />
+<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=google&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=probot&logoColor=22D3EE" />
 </p>
 
-### 🔗 LLM Engineering & Development
+### 🔗 LLM Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" height="42" alt="FastAPI Docker Git GitHub"/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" height="42" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=chainlink&logoColor=22D3EE" alt="LangChain"/>
-<img src="https://img.shields.io/badge/FAISS-0F172A?style=for-the-badge&logo=meta&logoColor=FFFFFF" alt="FAISS"/>
-<img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI API"/>
-<img src="https://img.shields.io/badge/Embeddings-0F172A?style=for-the-badge&logo=google&logoColor=4285F4" alt="Embeddings"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-0F172A?style=for-the-badge&logo=openai&logoColor=8B5CF6" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=chainlink&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/FAISS-0F172A?style=for-the-badge&logo=meta&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
+<img src="https://img.shields.io/badge/OpenAI%20API-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Embeddings-0F172A?style=for-the-badge&logo=google&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0F172A?style=for-the-badge&logo=openai&logoColor=8B5CF6" />
 </p>
 
 ### 🗄️ Data & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="42" alt="PostgreSQL MySQL MongoDB"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="42" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/pgvector-0F172A?style=for-the-badge&logo=postgresql&logoColor=22D3EE" alt="pgvector"/>
-<img src="https://img.shields.io/badge/Vector%20Databases-0F172A?style=for-the-badge&logoColor=8B5CF6" alt="Vector Databases"/>
-<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/pgvector-0F172A?style=for-the-badge&logo=postgresql&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Vector%20Databases-0F172A?style=for-the-badge&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
 </p>
 
 ---
@@ -160,9 +160,9 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 | **Agentic AI** | **Multi-Agent Systems** | **Advanced RAG** | **LLM Engineering** | **AI Automation** |
 | Reasoning & Planning | Agent Orchestration | Retrieval & Grounding | Reliable LLM Apps | AI-Powered Workflows |
 
-<br/>
+<br>
 
-**Retrieval → Reasoning → Tool Use → Automation**
+### Retrieval → Reasoning → Tool Use → Automation
 
 </div>
 
@@ -183,7 +183,7 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
   />
   <img
     src="https://raw.githubusercontent.com/AashishMLtech/AashishMLtech/output/github-contribution-grid-snake.svg"
-    alt="Aashish Kumar GitHub Contribution Activity"
+    alt="GitHub Contribution Activity"
     width="100%"
   />
 </picture>
@@ -192,18 +192,23 @@ Published in the *Journal of Indian Institute for Engineering, Management and Sc
 
 ---
 
-## 🎯 2026 Goals
+## 🚀 Featured Projects
 
 <div align="center">
 
-| 🚀 | Goal |
-| :-: | :--- |
-| 🤖 | Build production-ready Agentic AI systems |
-| 🧠 | Deepen LLM & RAG engineering |
-| ⚙️ | Build scalable AI APIs |
-| 🔗 | Explore Multi-Agent architectures |
-| 🌍 | Contribute to open-source AI |
-| 🔬 | Publish more AI/ML research |
+<a href="https://github.com/AashishMLtech/Autonomous-Lead-Enrichment-Agent">
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=AashishMLtech&repo=Autonomous-Lead-Enrichment-Agent&theme=github_dark&hide_border=true"
+alt="Autonomous Lead Enrichment Agent"
+/>
+</a>
+
+<a href="https://github.com/AashishMLtech">
+<img
+src="https://github-readme-stats.vercel.app/api?username=AashishMLtech&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+alt="GitHub Statistics"
+/>
+</a>
 
 </div>
 
@@ -241,9 +246,8 @@ alt="GitHub"
 />
 </a>
 
-<br/><br/>
+<br><br>
 
 **Building intelligent systems. Learning continuously. Creating with AI.**
 
 </div>
-
